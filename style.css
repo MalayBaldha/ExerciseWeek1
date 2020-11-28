@@ -1,0 +1,13 @@
+body{
+    background: black;
+    font-family: helvetica;
+    
+}
+images {
+    margin : 50px;
+    padding : 50px;
+    align-items : center;
+    max-height : 100%;
+    width : 100%;
+
+}
