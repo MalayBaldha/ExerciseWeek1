@@ -2,13 +2,13 @@ body{
     background: black;
     font-family: helvetica;
     color: #ff8c37;
-
+    align-items: center;
 }
 images {
     margin : 50px;
-    padding : 50px;
+    padding : 250px;
     align-items : center;
-    max-height : 50%;
-    width : 50%;
+    height : auto;
+    width : 75%;
 
 }
